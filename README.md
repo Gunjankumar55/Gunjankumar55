@@ -97,11 +97,12 @@ Advanced Word Sense Disambiguation System
 
 ## 🌱 Currently Learning
 <div align="center">
-  <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
-  <img src="https://img.shields.io/badge/Cloud_Architecture-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Cloud Architecture" />
-  <img src="https://img.shields.io/badge/System_Design-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white" alt="System Design" />
+  <img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google-translate&logoColor=white" alt="NLP" />
+  <img src="https://img.shields.io/badge/Cloud-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Cloud" />
   <img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </div>
+
 
 ## 🎯 Goals
 - Contribute to open-source projects
