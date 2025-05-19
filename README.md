@@ -96,12 +96,13 @@ Advanced Word Sense Disambiguation System
 </div>
 
 ## 🌱 Currently Learning
+## 📊 GitHub Stats
 <div align="center">
-  <img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google-translate&logoColor=white" alt="NLP" />
-  <img src="https://img.shields.io/badge/Cloud-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Cloud" />
-  <img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gunjankumar55&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gunjankumar55&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunjankumar55&layout=compact&theme=radical&hide_border=false&cache_seconds=86400" alt="Top Languages" />
 </div>
+
 
 
 ## 🎯 Goals
