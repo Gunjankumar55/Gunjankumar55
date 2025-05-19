@@ -13,6 +13,11 @@ I'm a B.Tech student at Ramrao Adik Institute of Technology, specializing in Com
 - **B.Tech in Computer Engineering (Data Science)**  
   Ramrao Adik Institute of Technology, D. Y. Patil Deemed to be University  
   CGPA: 9.40/10 | 2022 - Present
+  
+## 💭 Quote of the Day
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=grow_out_in" alt="Quote of the Day" />
+</div>
 
 ## 🛠️ Tech Stack
 <div align="center">
@@ -46,6 +51,19 @@ I'm a B.Tech student at Ramrao Adik Institute of Technology, specializing in Com
 - Data Structure and Algorithms – Internshala
 - PowerBI for Beginners - Simplilearn
 
+## 📌 Pinned Repositories
+<div align="center">
+  <a href="https://github.com/Gunjankumar55/Agroassist---Smart-Crop-Recommendation-using-ML">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gunjankumar55&repo=Agroassist---Smart-Crop-Recommendation-using-ML&theme=radical" />
+  </a>
+  <a href="https://github.com/Gunjankumar55/askDB---Smart-text-to-sql-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gunjankumar55&repo=askDB---Smart-text-to-sql-&theme=radical" />
+  </a>
+  <a href="https://github.com/Gunjankumar55/LESK_BERT_WSD">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gunjankumar55&repo=LESK_BERT_WSD&theme=radical" />
+  </a>
+</div>
+
 ## 🚀 Featured Projects
 
 ### 1. [AgrowAssist - Smart Agricultural Assistance System](https://github.com/Gunjankumar55/Agroassist---Smart-Crop-Recommendation-using-ML)
@@ -55,7 +73,7 @@ Smart Agricultural Assistance System with ML-powered crop recommendations
 - Real-time disease detection
 - Power BI data visualization
 
-### 2. [AskDB - A Smart Text-to-SQL System ](https://github.com/Gunjankumar55/askDB---Smart-text-to-sql-)
+### 2. [AskDB - A Smart Text-to-SQL System](https://github.com/Gunjankumar55/askDB---Smart-text-to-sql-)
 Natural Language to SQL Query Converter
 - LLM-powered query conversion
 - Flask backend with MySQL integration
@@ -88,22 +106,39 @@ Advanced Word Sense Disambiguation System
 - NSS Volunteer (2023-2024)
 - Technical Content Creator on YouTube
 
+## 🐍 Contribution Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gunjankumar55/Gunjankumar55/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gunjankumar55/Gunjankumar55/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Gunjankumar55/Gunjankumar55/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gunjankumar55&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gunjankumar55&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunjankumar55&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gunjankumar55&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gunjankumar55&theme=radical&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunjankumar55&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
+</div>
+
+## 💻 Skills Progress
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunjankumar55&langs_count=8&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+</div>
+
+## 📊 Detailed GitHub Metrics
+<div align="center">
+  <img src="https://metrics.lecoq.io/Gunjankumar55?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=Asia%2FKolkata" alt="Detailed Metrics" />
 </div>
 
 ## 🌱 Currently Learning
-## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gunjankumar55&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gunjankumar55&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunjankumar55&layout=compact&theme=radical&hide_border=false&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google-translate&logoColor=white" alt="NLP" />
+  <img src="https://img.shields.io/badge/Cloud-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Cloud" />
+  <img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </div>
-
-
 
 ## 🎯 Goals
 - Contribute to open-source projects
