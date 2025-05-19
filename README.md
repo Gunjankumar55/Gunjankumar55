@@ -51,18 +51,6 @@ I'm a B.Tech student at Ramrao Adik Institute of Technology, specializing in Com
 - Data Structure and Algorithms – Internshala
 - PowerBI for Beginners - Simplilearn
 
-## 📌 Pinned Repositories
-<div align="center">
-  <a href="https://github.com/Gunjankumar55/Agroassist---Smart-Crop-Recommendation-using-ML">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gunjankumar55&repo=Agroassist---Smart-Crop-Recommendation-using-ML&theme=radical" />
-  </a>
-  <a href="https://github.com/Gunjankumar55/askDB---Smart-text-to-sql-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gunjankumar55&repo=askDB---Smart-text-to-sql-&theme=radical" />
-  </a>
-  <a href="https://github.com/Gunjankumar55/LESK_BERT_WSD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gunjankumar55&repo=LESK_BERT_WSD&theme=radical" />
-  </a>
-</div>
 
 ## 🚀 Featured Projects
 
@@ -119,7 +107,6 @@ Advanced Word Sense Disambiguation System
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gunjankumar55&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gunjankumar55&theme=radical&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunjankumar55&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 ## 💻 Skills Progress
