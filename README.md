@@ -48,21 +48,21 @@ I'm a B.Tech student at Ramrao Adik Institute of Technology, specializing in Com
 
 ## 🚀 Featured Projects
 
-### 1. [AgrowAssist](https://github.com/Gunjankumar55/Agroassist---Smart-Crop-Recommendation-using-ML)
+### 1. [AgrowAssist - Smart Agricultural Assistance System](https://github.com/Gunjankumar55/Agroassist---Smart-Crop-Recommendation-using-ML)
 Smart Agricultural Assistance System with ML-powered crop recommendations
 - 35% improved prediction accuracy
 - Flutter mobile app with TensorFlow Lite
 - Real-time disease detection
 - Power BI data visualization
 
-### 2. [AskDB](https://github.com/Gunjankumar55/askDB---Smart-text-to-sql-)
+### 2. [AskDB - A Smart Text-to-SQL System ](https://github.com/Gunjankumar55/askDB---Smart-text-to-sql-)
 Natural Language to SQL Query Converter
 - LLM-powered query conversion
 - Flask backend with MySQL integration
 - Responsive Bootstrap UI
 - Efficient API communication
 
-### 3. [LESK BERT WSD](https://github.com/Gunjankumar55/LESK_BERT_WSD)
+### 3. [SenseResolver - Modern WSD with BERT & Lesk](https://github.com/Gunjankumar55/LESK_BERT_WSD)
 Advanced Word Sense Disambiguation System
 - BERT embeddings integration
 - Enhanced Lesk algorithm
