@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/gunjankumarchoudhari)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://gunjankumar55.github.io/Gunjan_Portfolio/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:gunjankumarchoudhari@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-Code%20Spirit-red)]([https://youtube.com/@codespirit](https://www.youtube.com/@CodeSpirit_5))
+[![YouTube](https://img.shields.io/badge/YouTube-Code%20Spirit-red)](https://www.youtube.com/@CodeSpirit_5)
 
 ## 🎯 About Me
 I'm a B.Tech student at Ramrao Adik Institute of Technology, specializing in Computer Engineering with a focus on Data Science. With a strong CGPA of 9.40/10, I'm passionate about building intelligent systems and contributing to technological innovation.
