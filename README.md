@@ -14,10 +14,7 @@ I'm a B.Tech student at Ramrao Adik Institute of Technology, specializing in Com
   Ramrao Adik Institute of Technology, D. Y. Patil Deemed to be University  
   CGPA: 9.40/10 | 2022 - Present
   
-## 💭 Quote of the Day
-<div align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=grow_out_in" alt="Quote of the Day" />
-</div>
+
 
 ## 🛠️ Tech Stack
 <div align="center">
@@ -94,14 +91,7 @@ Advanced Word Sense Disambiguation System
 - NSS Volunteer (2023-2024)
 - Technical Content Creator on YouTube
 
-## 🐍 Contribution Snake
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gunjankumar55/Gunjankumar55/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gunjankumar55/Gunjankumar55/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Gunjankumar55/Gunjankumar55/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -114,10 +104,7 @@ Advanced Word Sense Disambiguation System
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunjankumar55&langs_count=8&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </div>
 
-## 📊 Detailed GitHub Metrics
-<div align="center">
-  <img src="https://metrics.lecoq.io/Gunjankumar55?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=Asia%2FKolkata" alt="Detailed Metrics" />
-</div>
+
 
 ## 🌱 Currently Learning
 <div align="center">
