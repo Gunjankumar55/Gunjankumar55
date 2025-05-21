@@ -7,7 +7,7 @@
 [![Resume](https://img.shields.io/badge/Resume-View-green)](https://gunjankumar55.github.io/my-resume/resume.pdf)
 
 ## 🎯 About Me
-I'm a B.Tech student at Ramrao Adik Institute of Technology, specializing in Computer Engineering with a focus on Data Science. With a strong CGPA of 9.40/10, I'm passionate about building intelligent systems and contributing to technological innovation.
+I'm a B.Tech student at Ramrao Adik Institute of Technology, specializing in Computer Engineering with a focus on Data Science. I'm passionate about building intelligent systems and contributing to technological innovation.
 
 ## 🎓 Education
 - **B.Tech in Computer Engineering (Data Science)**  
