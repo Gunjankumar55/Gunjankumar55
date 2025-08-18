@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Gunjankumar Nitin Choudhari
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/gunjanch5)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://gunjankumar55.github.io/Gunjan_Portfolio/)  
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:gunjankumarchoudhari@gmail.com)  
-[![Resume](https://img.shields.io/badge/Resume-View-green)](https://drive.google.com/file/d/1ZGPhxdSOO3H1mnAU8AegXZU6to1A-RBu/view?usp=drive_link)  
 
 ---
 
