@@ -31,13 +31,10 @@ Hybrid Lesk + BERT model for NLP tasks
 
 ## 💼 Experience
 
-**Software Engineering Intern** @ KasNet Technologies (May–Jun 2025)  
-- Automated backend tasks (Python + Git)  
-- Created data pipelines & API integrations for BI dashboards  
-
-**Python Data Analyst Intern** @ Springboard (Apr–Jun 2024)  
-- Built Power BI dashboards & ML models  
-- Enhanced prediction accuracy by 25%
+**Data Analyst Trainee @ Springboard (Apr–Jun 2024)
+- Boosted data efficiency by 25% using Python + SQL
+- Automated dashboards with Power BI → cut manual reporting by 30%
+- Built ML models for predictive insights
 
 ---
 
