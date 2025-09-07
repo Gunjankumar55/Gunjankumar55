@@ -33,7 +33,7 @@ Navi Mumbai, India • B.Tech in Computer Engineering (Data Science Minor) @ RAI
 
 ## 💼 Experience
 
-**Data Analyst Trainee – Springboard** (Apr–Jun 2024)  
+**Data Analyst Intern ** (Apr–Jun 2024)  
 - Optimized SQL + Python automation → ~25% faster processing  
 - Power BI reporting → ~30% less manual work  
 - Built predictive ML models for insights
