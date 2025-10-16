@@ -33,26 +33,28 @@ Navi Mumbai, India • B.Tech in Computer Engineering (Data Science Minor) @ RAI
 
 ## 💼 Experience
 
-**Data Analyst Intern** (Apr–Jun 2024)  
-- Optimized SQL + Python automation → ~25% faster processing  
-- Power BI reporting → ~30% less manual work  
-- Built predictive ML models for insights
+**Data Analyst Intern @ KasNet Technologies Pvt Ltd.** *(April 2024 – July 2024)*  
+- Improved data workflows with optimized SQL queries and automated tasks using Python, achieving faster processing  
+- Generated dashboards and reports using Power BI, reducing manual reporting time  
+- Applied Machine Learning techniques to build predictive models, improving decision-making through data-driven insights
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java, Python, C, SQL, HTML/CSS  
-**Frameworks/Libraries:** Spring Boot, Flask, TensorFlow, NLTK  
+**Languages:** Java, Python, C, SQL, NoSQL  
+**Frameworks/Libraries:** TensorFlow, Flask  
 **Databases:** MySQL, MongoDB  
-**Tools/Platforms:** Git, GitHub, Power BI, Docker, Postman  
-**Interests:** NLP, ML/DL, Backend APIs, Cloud
+**Tools:** Git, GitHub, Power BI, Postman  
+**Technologies:** Machine Learning, Artificial Intelligence, Deep Learning, OOPs  
+**Cloud:** AWS (IAM, EC2, S3, Lambda), Microsoft Azure
 
 ---
 
 ## 🏆 Certifications (selected)
 
-- Microsoft Azure Fundamentals (AZ-900)  
+- Microsoft Azure Fundamentals (AZ-900)
+- AWS: AWS Academy Cloud Architecting   
 - Oracle Cloud – Generative AI (OCI 2024)  
 - IBM – Introduction to SQL  
 - NPTEL – Data Science for Engineers
