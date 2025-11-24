@@ -4,7 +4,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/Gunjankumar55?style=social)](https://github.com/Gunjankumar55)
 [![Email](https://img.shields.io/badge/Email-gunjankumarchoudhari%40gmail.com-red)](mailto:gunjankumarchoudhari@gmail.com)
 
-Navi Mumbai, India • B.Tech in Computer Engineering (Data Science Minor) @ RAIT (CGPA: 9.51/10)
+Navi Mumbai, India • B.Tech in Computer Engineering (Data Science Minor) @ RAIT (CGPA: 9.52/10)
 
 ---
 
@@ -14,6 +14,12 @@ Navi Mumbai, India • B.Tech in Computer Engineering (Data Science Minor) @ RAI
 - ML-based crop recommendation with ~35% accuracy improvement  
 - Integrated leaf disease & fruit classification in a Flutter app (TensorFlow Lite)  
 - Mobile-first UX with real-time inputs; ~95% offline operability
+
+- ### 🕵️‍♂️ [LSB Steganography Detection – Multi-Payload Web Demo](https://github.com/Gunjankumar55/LSB_steganography_detection)
+- Flask + PyTorch-based steganalysis demo for PNG images
+- Detects LSB payloads (HTML, JS, PS) and “clean” images via deep neural networks
+- Includes binary stego detection and multi-class payload classification
+- Fast feature extraction and real-time web visualization
 
 ### 🔍 [AskDB – Smart Text-to-SQL System](https://github.com/Gunjankumar55/AskDb-a_Smart_text_to_Sql_System)
 - Natural language → SQL (Flask) with ~85% accurate query generation  
