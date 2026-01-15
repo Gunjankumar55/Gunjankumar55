@@ -26,34 +26,31 @@ Navi Mumbai, India • B.Tech in Computer Engineering (Data Science Minor) @ RAI
 - Responsive UI + real-time suggestions; reduced query time by ~40%  
 - Enabled 100+ successful SQL executions
 
-### 🧠 [SenseResolver – WSD with BERT & Lesk](https://github.com/Gunjankumar55/LESK_BERT_WSD)
-- Hybrid Lesk + BERT embeddings for Word Sense Disambiguation  
+### 🧠 [SenseResolver – WSD with Lesk](https://github.com/Gunjankumar55/LESK_BERT_WSD)
+- Engineered a word sense disambiguation system using Lesk algorithm with Python and NLTK.  
 - Dockerized Flask service with a real-time feedback loop  
 - ~18% improvement in sense disambiguation accuracy
 
-### 🚗 [Car Rental System – Full-stack Java](https://github.com/Gunjankumar55/CarRentalSystem.git)
-- Java Spring Boot backend (OOP design) + MySQL  
-- Tested REST APIs (Postman) for reliable rental operations
 
 ---
 
 ## 💼 Experience
 
 **Data Analyst Intern @ KasNet Technologies Pvt Ltd.** *(April 2024 – July 2024)*  
-- Improved data workflows with optimized SQL queries and automated tasks using Python, achieving faster processing  
-- Generated dashboards and reports using Power BI, reducing manual reporting time  
-- Applied Machine Learning techniques to build predictive models, improving decision-making through data-driven insights
+- Gained hands-on experience in SQL and Python for improving data handling and basic script writing
+- Generated dashboard and reports using Power BI for data visualization and analysis  
+- Applied Machine Learning techniques to build simple predictive models and understand data trends
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java, Python, C, SQL, NoSQL  
-**Frameworks/Libraries:** TensorFlow, Flask  
+**Languages:** Java, Python, SQL, NoSQL  
+**Frameworks/Libraries:** sklearn, Flask  
 **Databases:** MySQL, MongoDB  
 **Tools:** Git, GitHub, Power BI, Postman  
 **Technologies:** Machine Learning, Artificial Intelligence, Deep Learning, OOPs  
-**Cloud:** AWS (IAM, EC2, S3, Lambda), Microsoft Azure
+**Cloud:** AWS (IAM, EC2, S3)
 
 ---
 
