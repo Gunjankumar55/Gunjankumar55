@@ -4,7 +4,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/Gunjankumar55?style=social)](https://github.com/Gunjankumar55)
 [![Email](https://img.shields.io/badge/Email-gunjankumarchoudhari%40gmail.com-red)](mailto:gunjankumarchoudhari@gmail.com)
 
-Navi Mumbai, India • B.Tech in Computer Engineering (Data Science Minor) @ RAIT (CGPA: 9.52/10)
+Navi Mumbai, India • B.Tech in Computer Engineering (Data Science Minor) @ RAIT (CGPA: 9.61/10)
 
 ---
 
