@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gunjankumar Nitin Choudhari
+# 👋 Hi, I'm Gunjan C.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gunjanch5-blue?logo=linkedin)](https://linkedin.com/in/gunjanch5)
 [![GitHub Followers](https://img.shields.io/github/followers/Gunjankumar55?style=social)](https://github.com/Gunjankumar55)
