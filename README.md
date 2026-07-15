@@ -271,7 +271,7 @@ Contributed to data handling, analytics, and predictive modeling workflows in a 
 
 <div align="center">
 
-![GitHub Snake](https://raw.githubusercontent.com/Gunjankumar55/Gunjankumar55/output/github-contribution-grid-snake.svg)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Gunjankumar55/Gunjankumar55/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
