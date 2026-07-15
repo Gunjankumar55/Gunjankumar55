@@ -106,19 +106,24 @@ Hey there! I'm **Gunjankumar**, a passionate Computer Engineering student and Fu
 <br/>
 <img src="https://img.shields.io/badge/Intel%20Unnati-Artificial%20Intelligence-6d28d9?style=for-the-badge&logo=intel&logoColor=0071C5&labelColor=1e1033"/>
 <img src="https://img.shields.io/badge/Alteryx-ML%20Fundamentals-6d28d9?style=for-the-badge&logo=alteryx&logoColor=0078C0&labelColor=1e1033"/>
-<img src="https://img.shields.io/badge/Oracle-OCI%202024%20Generative%20AI%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1e1033"/>
+<img src="https://img.shields.io/badge/Oracle-OCI%20Generative%20AI%20Professional-6d28d9?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1e1033"/>
 </div>
 
 ---
 
 ## ─── GitHub Analytics
 
+## ─── GitHub Analytics
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Gunjankumar55&show_icons=true&theme=radical&hide_border=true&bg_color=0f0524&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd&count_private=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Gunjankumar55&theme=radical&hide_border=true&background=0f0524&ring=8b5cf6&fire=a78bfa&currStreakLabel=c4b5fd"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gunjankumar55&show_icons=true&theme=radical&hide_border=true&bg_color=0f0524&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd&count_private=true&include_all_commits=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunjankumar55&layout=compact&theme=radical&hide_border=true&bg_color=0f0524&title_color=a78bfa&text_color=c4b5fd"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Gunjankumar55&theme=radical&hide_border=true&background=0f0524&ring=8b5cf6&fire=a78bfa&currStreakLabel=c4b5fd"/>
+
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunjankumar55&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0f0524&title_color=a78bfa&text_color=c4b5fd"/>
 
 </div>
 
