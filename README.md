@@ -106,8 +106,7 @@ Hey there! I'm **Gunjankumar**, a passionate Computer Engineering student and Fu
 <br/>
 <img src="https://img.shields.io/badge/Intel%20Unnati-Artificial%20Intelligence-6d28d9?style=for-the-badge&logo=intel&logoColor=0071C5&labelColor=1e1033"/>
 <img src="https://img.shields.io/badge/Alteryx-ML%20Fundamentals-6d28d9?style=for-the-badge&logo=alteryx&logoColor=0078C0&labelColor=1e1033"/>
-<img src="https://img.shields.io/badge/AWS-Cloud%20Fundamentals-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900&labelColor=1e1033"/>
-
+<img src="https://img.shields.io/badge/Oracle-OCI%202024%20Generative%20AI%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1e1033"/>
 </div>
 
 ---
