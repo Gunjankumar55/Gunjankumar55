@@ -4,10 +4,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=780&lines=Computer+Engineer;Building+Software+%7C+Exploring+AI+%7C+Content+Creator;Incoming+System+Engineer+%40+TCS" alt="Typing SVG" />
 
-<img src="https://img.shields.io/badge/CGPA-9.61%2F10-6d28d9?style=flat-square&labelColor=1e1033"/>
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Engineering-7c3aed?style=flat-square&labelColor=1e1033"/>
-<img src="https://img.shields.io/badge/Minor-Data%20Science-8b5cf6?style=flat-square&labelColor=1e1033"/>
-<img src="https://img.shields.io/badge/Location-Nagpur%2C%20India-a78bfa?style=flat-square&labelColor=1e1033"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/CGPA-9.61%2F10-6d28d9?style=flat-square&labelColor=1e1033"/>
+  <img src="https://img.shields.io/badge/B.Tech-Computer%20Engineering-7c3aed?style=flat-square&labelColor=1e1033"/>
+  <img src="https://img.shields.io/badge/Minor-Data%20Science-8b5cf6?style=flat-square&labelColor=1e1033"/>
+  <img src="https://img.shields.io/badge/Location-Nagpur%2C%20India-a78bfa?style=flat-square&labelColor=1e1033"/>
+</p>
 
 <a href="https://gunjank.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2e1065"/></a>
 <a href="https://linkedin.com/in/gunjanch5"><img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2e1065"/></a>
