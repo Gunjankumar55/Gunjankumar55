@@ -26,13 +26,14 @@
 
 ## ─── About Me
 
-Hey there! I'm **Gunjankumar**, a passionate Computer Engineering student and Full-Stack Developer with a strong focus on **AI/ML, Python, and building systems that actually matter**. I love crafting robust, scalable solutions and writing clean code that makes a real difference.
+Hey! I'm **Gunjankumar**, a **Computer Engineering graduate** passionate about **Java, Software Development, AI/ML, and Problem Solving**. My primary programming language is **Java**, and I enjoy solving DSA problems, building practical projects, and continuously learning new technologies.
 
-- 🎯 Building intelligent full-stack applications with modern technologies
-- 💡 Developing AI/ML models — from computer vision to NLP
-- 📊 Turning raw data into decisions with Python, SQL & Power BI
-- 🎨 Blending engineering with design — leading creative strategy for large-scale tech events
-- 🎧 Football, esports, trekking and graphic designing in my free time
+- ☕ Solving Data Structures & Algorithms problems using Java
+- 💻 Building software projects with modern development tools
+- 🤖 Exploring Artificial Intelligence, Machine Learning & Data Science
+- 📊 Working with Python, SQL & Power BI to analyze and visualize data
+- 🌱 Constantly learning new technologies and improving my problem-solving skills
+- ⚽ Outside tech, I enjoy football, trekking, esports, graphic design, and content creation
 
 ---
 
