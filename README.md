@@ -124,13 +124,6 @@ Hey there! I'm **Gunjankumar**, a passionate Computer Engineering student and Fu
 
 ---
 
-## ─── GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Gunjankumar55&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
-
-</div>
 
 ---
 
