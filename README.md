@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2e1065,100:4c1d95&height=230&section=header&text=Gunjankumar%20Choudhari&fontSize=38&fontColor=e9d5ff&animation=fadeIn&fontAlignY=36&desc=Computer%20Engineer&descAlignY=54&descSize=18&descColor=c4b5fd" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=780&lines=AI%2FML+Engineer+%7C+Full+Stack+Developer;B.Tech+CSE+%40+D.Y.+Patil+%7C+CGPA+9.61%2F10;Design+Patent+Holder+%7C+Researcher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=780&lines=Computer+Engineer;Building+Software+%7C+Exploring+AI+%7C+Content+Creator;Incoming+System+Engineer+%40+TCS" alt="Typing SVG" />
 
 <img src="https://img.shields.io/badge/CGPA-9.61%2F10-6d28d9?style=flat-square&labelColor=1e1033"/>
 <img src="https://img.shields.io/badge/B.Tech-Computer%20Engineering-7c3aed?style=flat-square&labelColor=1e1033"/>
