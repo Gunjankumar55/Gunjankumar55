@@ -24,7 +24,7 @@
 
 <br/>
 
-## ─── About Me
+##  About Me
 
 Hey! I'm **Gunjankumar**, a **Computer Engineering graduate** passionate about **Java, Software Development, AI/ML, and Problem Solving**. My primary programming language is **Java**, and I enjoy solving DSA problems, building practical projects, and continuously learning new technologies.
 
@@ -37,7 +37,7 @@ Hey! I'm **Gunjankumar**, a **Computer Engineering graduate** passionate about *
 
 ---
 
-## ─── Tech Stack
+##  Tech Stack
 
 **Languages**
 <br/>
@@ -61,7 +61,7 @@ Hey! I'm **Gunjankumar**, a **Computer Engineering graduate** passionate about *
 
 ---
 
-## ─── Featured Projects
+##  Featured Projects
 
 **🌾 AgrowAssist — Agricultural Assistance System**
 `Python` `Pandas` `Flask` `Power BI` `Flutter` `TensorFlow Lite`
@@ -74,14 +74,14 @@ Hey! I'm **Gunjankumar**, a **Computer Engineering graduate** passionate about *
 
 ---
 
-## ─── Experience
+##  Experience
 
 **Data Analyst Trainee** — KasNet Technologies Pvt Ltd.
 `April 2024 – July 2024` · Pune, India
 
 ---
 
-## ─── Achievements
+##  Achievements
 
 <div align="center">
 
@@ -97,7 +97,7 @@ Hey! I'm **Gunjankumar**, a **Computer Engineering graduate** passionate about *
 
 ---
 
-## ─── Certifications
+##  Certifications
 
 <div align="center">
 
@@ -112,7 +112,7 @@ Hey! I'm **Gunjankumar**, a **Computer Engineering graduate** passionate about *
 
 ---
 
-## ─── GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -128,7 +128,7 @@ Hey! I'm **Gunjankumar**, a **Computer Engineering graduate** passionate about *
 
 ---
 
-## ─── Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 
@@ -138,7 +138,7 @@ Hey! I'm **Gunjankumar**, a **Computer Engineering graduate** passionate about *
 
 ---
 
-## ─── Contribution Snake
+##  Contribution Snake
 
 <div align="center">
 
@@ -148,7 +148,7 @@ Hey! I'm **Gunjankumar**, a **Computer Engineering graduate** passionate about *
 
 ---
 
-## ─── Connect With Me
+##  Connect With Me
 
 <div align="center">
 
