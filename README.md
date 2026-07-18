@@ -12,7 +12,7 @@
 </p>
 
 <a href="https://gunjankumar55.github.io"><img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2e1065"/></a>
-<a href="https://linkedin.com/in/gunjanch5"><img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2e1065"/></a>
+<a href="https://linkedin.com/in/gunjanch5"><img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=2e1065"/></a>
 <a href="mailto:gunjankumarchoudhari@gmail.com"><img src="https://img.shields.io/badge/Email-6d28d9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2e1065"/></a>
 <a href="https://github.com/Gunjankumar55"><img src="https://img.shields.io/badge/GitHub-6d28d9?style=for-the-badge&logo=github&logoColor=white&labelColor=2e1065"/></a>
 <a href="https://www.youtube.com/@CodeSpirit_5"><img src="https://img.shields.io/badge/YouTube-6d28d9?style=for-the-badge&logo=youtube&logoColor=white&labelColor=2e1065"/></a>
@@ -154,7 +154,7 @@ Hey! I'm **Gunjankumar**, a **Computer Engineering graduate** passionate about *
 <div align="center">
 
 <a href="mailto:gunjankumarchoudhari@gmail.com"><img src="https://img.shields.io/badge/Gmail-6d28d9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2e1065"/></a>
-<a href="https://linkedin.com/in/gunjanch5"><img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2e1065"/></a>
+<a href="https://linkedin.com/in/gunjanch5"><img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=2e1065"/></a>
 <a href="https://github.com/Gunjankumar55"><img src="https://img.shields.io/badge/GitHub-6d28d9?style=for-the-badge&logo=github&logoColor=white&labelColor=2e1065"/></a>
 <a href="https://gunjankumar55.github.io"><img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2e1065"/></a>
 <a href="https://www.youtube.com/@CodeSpirit_5"><img src="https://img.shields.io/badge/YouTube-6d28d9?style=for-the-badge&logo=youtube&logoColor=white&labelColor=2e1065"/></a>
