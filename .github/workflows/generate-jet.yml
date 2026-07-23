@@ -1,0 +1,46 @@
+name: Update Contribution Jet
+
+on:
+  schedule:
+    # Runs daily at 12:00 AM IST (6:30 PM UTC)
+    - cron: "30 18 * * *"
+
+  # Allows manual Run workflow button
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-jet:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Generate Contribution Jet
+        env:
+          GH_USERNAME: Gunjankumar55
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OUTPUT_PATH: .github/github-jet.svg
+        run: node generate.mjs
+
+      - name: Commit updated SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add .github/github-jet.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update contribution jet"
+            git push
+          fi
