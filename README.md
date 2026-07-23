@@ -143,16 +143,6 @@ Hey! I'm **Gunjankumar**, a **Computer Engineering graduate** passionate about *
 
 ---
 
-##  Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Gunjankumar55/Gunjankumar55/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
-
-</div>
-
----
-
 ##  Connect With Me
 
 <div align="center">
