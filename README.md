@@ -130,8 +130,19 @@ Hey! I'm **Gunjankumar**, a **Computer Engineering graduate** passionate about *
 </div>
 
 ---
+##  Contribution Graph
 
-##  Contribution Activity
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gunjankumar55&theme=react-dark&bg_color=0f0524&color=a78bfa&line=8b5cf6&point=c4b5fd&hide_border=true"
+     alt="GitHub Contribution Activity Graph"
+     width="100%"/>
+
+</div>
+
+---
+
+##  Commit Contribution Galaxy
 
 <div align="center">
 
