@@ -27,7 +27,7 @@ jobs:
       - name: Generate Contribution Jet
         env:
           GH_USERNAME: Gunjankumar55
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
           OUTPUT_PATH: .github/github-jet.svg
         run: node generate.mjs
 
