@@ -115,19 +115,22 @@ Hey! I'm **Gunjankumar**, a **Computer Engineering graduate** passionate about *
 
 ---
 
+<br>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gunjankumar55&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0f0524&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd"/>
-
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gunjankumar55&layout=compact&langs_count=5&size_weight=0.3&count_weight=0.7&theme=radical&hide_border=true&bg_color=0f0524&title_color=a78bfa&text_color=c4b5fd"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gunjankumar55&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0f0524&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd" alt="Gunjan's GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gunjankumar55&layout=compact&langs_count=5&size_weight=0.3&count_weight=0.7&theme=radical&hide_border=true&bg_color=0f0524&title_color=a78bfa&text_color=c4b5fd" alt="Most Used Languages"/>
 
 <br>
 
-<img width="82%" src="https://streak-stats.demolab.com?user=Gunjankumar55&theme=radical&hide_border=true&background=0f0524&ring=8b5cf6&fire=a78bfa&currStreakLabel=c4b5fd&currStreakNum=a78bfa&sideNums=ff4ecd&dates=c4b5fd"/>
+<img width="82%" src="https://streak-stats.demolab.com?user=Gunjankumar55&theme=radical&hide_border=true&background=0f0524&ring=8b5cf6&fire=a78bfa&currStreakLabel=c4b5fd&currStreakNum=a78bfa&sideNums=ff4ecd&dates=c4b5fd" alt="GitHub Streak Stats"/>
 
 </div>
+
+<br>
 
 ---
 ##  Contribution Graph
