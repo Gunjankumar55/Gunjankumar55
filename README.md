@@ -12,12 +12,12 @@
 </p>
 
 <a href="https://gunjankumar55.github.io"><img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2e1065"/></a>
-<a href="https://linkedin.com/in/gunjanch5">
-  <img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=2e1065"/>
-</a>
+<a href="https://linkedin.com/in/gunjanch5"><img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=2e1065"/></a>
 <a href="mailto:gunjankumarchoudhari@gmail.com"><img src="https://img.shields.io/badge/Email-6d28d9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2e1065"/></a>
 <a href="https://github.com/Gunjankumar55"><img src="https://img.shields.io/badge/GitHub-6d28d9?style=for-the-badge&logo=github&logoColor=white&labelColor=2e1065"/></a>
 <a href="https://www.youtube.com/@CodeSpirit_5"><img src="https://img.shields.io/badge/YouTube-6d28d9?style=for-the-badge&logo=youtube&logoColor=white&labelColor=2e1065"/></a>
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Gunjankumar55&style=flat-square&color=7c3aed&label=Profile+Views"/>
 <img src="https://img.shields.io/github/followers/Gunjankumar55?style=flat-square&color=7c3aed&labelColor=1e1033&label=Followers"/>
@@ -25,7 +25,7 @@
 
 </div>
 
-<br/>
+<br>
 
 ##  About Me
 
@@ -38,67 +38,71 @@ Hey! I'm **Gunjankumar**, a **Computer Engineering graduate** passionate about *
 - 🌱 Constantly learning new technologies and improving my problem-solving skills
 - ⚽ Outside tech, I enjoy football, trekking, esports, graphic design, and content creation
 
----
+<br>
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
-<br/>
+<br>
 <img src="https://skillicons.dev/icons?i=java,python,cpp,c&theme=dark"/>
 
 **Frontend**
-<br/>
+<br>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,figma&theme=dark"/>
 
 **Backend & Databases**
-<br/>
+<br>
 <img src="https://skillicons.dev/icons?i=flask,nodejs,mysql,mongodb,sqlite&theme=dark"/>
 
 **Cloud, DevOps & Tooling**
-<br/>
+<br>
 <img src="https://skillicons.dev/icons?i=aws,azure,git,github,vscode,powerbi&theme=dark"/>
 
 **AI / ML Frameworks**
-<br/>
+<br>
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,pandas,numpy&theme=dark"/>
 
----
+<br>
 
 ##  Featured Projects
 
 **🌾 AgrowAssist — Agricultural Assistance System**
+<br>
 `Python` `Pandas` `Flask` `Power BI` `Flutter` `TensorFlow Lite`
 
 **🔐 LSB Steganalysis System**
+<br>
 `Python` `Scikit-learn` `Deep Learning`
 
 **🧠 SenseResolver — Modern Word Sense Disambiguation**
+<br>
 `Python` `Flask` `NLTK` `Lesk Algorithm`
 
----
+<br>
 
 ##  Experience
 
 **Data Analyst Trainee** — KasNet Technologies Pvt Ltd.
+<br>
 `April 2024 – July 2024` · Pune, India
 
----
+<br>
 
 ##  Achievements
 
 <div align="center">
 
-| 🏆 Recognition | Details |
+| Recognition | Details |
 |:---|:---|
-| Design Patent | *AI-Based Students Behaviour Monitoring Device* |
-| Research Publications | 3+ papers — IRJCS 2024, ICETS 2025, ICCCDS 2026 |
-| Design Head, CSI-RAIT | Led design for 4+ conclaves & RAIT Techfest |
-| Co-Chief Design Officer, Social Wing RAIT | Creative lead for UDAAN 2024 |
-| Content Creator | 10+ tutorials · 1.8K+ views |
+| 🏅 Design Patent | *AI-Based Students Behaviour Monitoring Device* |
+| 📄 Research Publications | 3+ papers — IRJCS 2024, ICETS 2025, ICCCDS 2026 |
+| 🎨 Design Head, CSI-RAIT | Led design for 4+ conclaves & RAIT Techfest |
+| 🎯 Co-Chief Design Officer, Social Wing RAIT | Creative lead for UDAAN 2024 |
+| 🎥 Content Creator | 10+ tutorials · 1.8K+ views |
 
 </div>
 
----
+<br>
 
 ##  Certifications
 
@@ -107,17 +111,18 @@ Hey! I'm **Gunjankumar**, a **Computer Engineering graduate** passionate about *
 <img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Architecting-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900&labelColor=1e1033"/>
 <img src="https://img.shields.io/badge/Microsoft%20Azure-AZ--900-6d28d9?style=for-the-badge&logo=microsoftazure&logoColor=0078D4&labelColor=1e1033"/>
 <img src="https://img.shields.io/badge/IBM-Introduction%20to%20SQL-6d28d9?style=for-the-badge&logo=ibm&logoColor=white&labelColor=1e1033"/>
-<br/>
-<img src="https://img.shields.io/badge/Intel%20Unnati-Artificial%20Intelligence-6d28d9?style=for-the-badge&logo=intel&logoColor=0071C5&labelColor=1e1033"/>
-<img src="https://img.shields.io/badge/Alteryx-ML%20Fundamentals-6d28d9?style=for-the-badge&logo=alteryx&logoColor=0078C0&labelColor=1e1033"/>
-<img src="https://img.shields.io/badge/Oracle-OCI%20Generative%20AI%20Professional-6d28d9?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1e1033"/>
-</div>
-
----
 
 <br>
 
-## 📊 GitHub Analytics
+<img src="https://img.shields.io/badge/Intel%20Unnati-Artificial%20Intelligence-6d28d9?style=for-the-badge&logo=intel&logoColor=0071C5&labelColor=1e1033"/>
+<img src="https://img.shields.io/badge/Alteryx-ML%20Fundamentals-6d28d9?style=for-the-badge&logo=alteryx&logoColor=0078C0&labelColor=1e1033"/>
+<img src="https://img.shields.io/badge/Oracle-OCI%20Generative%20AI%20Professional-6d28d9?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1e1033"/>
+
+</div>
+
+<br>
+
+##  GitHub Analytics
 
 <div align="center">
 
@@ -132,30 +137,25 @@ Hey! I'm **Gunjankumar**, a **Computer Engineering graduate** passionate about *
 
 <br>
 
----
 ##  Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gunjankumar55&theme=react-dark&bg_color=0f0524&color=a78bfa&line=8b5cf6&point=c4b5fd&hide_border=true"
-     alt="GitHub Contribution Activity Graph"
-     width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gunjankumar55&theme=react-dark&bg_color=0f0524&color=a78bfa&line=8b5cf6&point=c4b5fd&hide_border=true" alt="GitHub Contribution Activity Graph" width="100%"/>
 
 </div>
 
----
+<br>
 
 ##  Commit Contribution Galaxy
 
 <div align="center">
 
-<img src="./.github/github-jet.svg"
-     alt="Gunjankumar GitHub Contribution Jet"
-     width="100%"/>
+<img src="./.github/github-jet.svg" alt="Gunjankumar GitHub Contribution Jet" width="100%"/>
 
 </div>
 
----
+<br>
 
 ##  Connect With Me
 
@@ -169,7 +169,7 @@ Hey! I'm **Gunjankumar**, a **Computer Engineering graduate** passionate about *
 
 </div>
 
----
+<br>
 
 <div align="center">
 
