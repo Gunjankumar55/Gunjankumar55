@@ -121,7 +121,7 @@ Hey! I'm **Gunjankumar**, a **Computer Engineering graduate** passionate about *
 
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gunjankumar55&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0f0524&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd"/>
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gunjankumar55&layout=compact&langs_count=5&theme=radical&hide_border=true&bg_color=0f0524&title_color=a78bfa&text_color=c4b5fd"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gunjankumar55&layout=compact&langs_count=5&size_weight=0.5&count_weight=0.5&theme=radical&hide_border=true&bg_color=0f0524&title_color=a78bfa&text_color=c4b5fd"/>
 
 <br>
 
