@@ -125,7 +125,7 @@ Hey! I'm **Gunjankumar**, a **Computer Engineering graduate** passionate about *
 
 <br><br>
 
-<img width="99%" src="https://streak-stats.demolab.com?user=Gunjankumar55&theme=radical&hide_border=true&background=0f0524&ring=8b5cf6&fire=a78bfa&currStreakLabel=c4b5fd&currStreakNum=a78bfa&sideNums=ff4ecd&dates=c4b5fd"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=Gunjankumar55&theme=radical&hide_border=true&background=0f0524&ring=8b5cf6&fire=a78bfa&currStreakLabel=c4b5fd&currStreakNum=a78bfa&sideNums=ff4ecd&dates=c4b5fd"/>
 
 </div>
 
