@@ -444,6 +444,7 @@
 <rect x="748.00" y="83.00" width="11" height="11" rx="2" ry="2" fill="#1a1028"/>
 <rect x="748.00" y="97.00" width="11" height="11" rx="2" ry="2" fill="#4c1d95"><animate attributeName="fill" dur="25s" repeatCount="indefinite" keyTimes="0;0.48;0.486;0.52;0.526;1" values="#4c1d95;#4c1d95;#67e8f9;#4c1d95;#67e8f9;#4c1d95"/></rect>
 <rect x="748.00" y="111.00" width="11" height="11" rx="2" ry="2" fill="#1a1028"/>
+<rect x="748.00" y="125.00" width="11" height="11" rx="2" ry="2" fill="#1a1028"/>
 </g>
 <g id="bullets">
 <circle cx="25.5" cy="154" r="2.2" fill="#22d3ee" filter="url(#glow)"><animate attributeName="cy" dur="25s" repeatCount="indefinite" keyTimes="0;0.002;0.02;1" values="154;154;116.5;116.5"/><animate attributeName="opacity" dur="25s" repeatCount="indefinite" keyTimes="0;0.002;0.02;0.026;1" values="0;1;1;0;0"/></circle>
