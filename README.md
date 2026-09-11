@@ -98,13 +98,13 @@ NLP tool that resolves ambiguous word meanings in context using an enhanced Lesk
 
 <div align="center">
 
-| Year | Recognition | Details |
-|:---|:---|:---|
-| 2024 | 🏅 Design Patent | *AI-Based Students Behaviour Monitoring Device* |
-| 2024–2026 | 📄 Research Publications | 3+ papers — IRJCS 2024, ICETS 2025, ICCCDS 2026 |
-| — | 🎨 Design Head, CSI-RAIT | Led design for 4+ conclaves & RAIT Techfest |
-| 2024 | 🎯 Co-Chief Design Officer, Social Wing RAIT | Creative lead for UDAAN 2024 |
-| — | 🎥 Content Creator | 10+ tutorials · 1.8K+ views |
+| Recognition | Details |
+|:---|:---|
+| 🏅 Design Patent | *AI-Based Students Behaviour Monitoring Device* |
+| 📄 Research Publications | 3+ papers — IRJCS 2024, ICETS 2025, ICCCDS 2026 |
+| 🎨 Design Head, CSI-RAIT | Led design for 4+ conclaves & RAIT Techfest |
+| 🎯 Co-Chief Design Officer, Social Wing RAIT | Creative lead for UDAAN 2024 |
+| 🎥 Content Creator | 10+ tutorials · 1.8K+ views |
 
 </div>
 
@@ -112,36 +112,25 @@ NLP tool that resolves ambiguous word meanings in context using an enhanced Lesk
 
 ## Certifications
 
-<details>
-<summary><b>☁️ Cloud</b></summary>
-<br>
+<div align="center">
 
 <img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Architecting-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900&labelColor=1e1033"/>
 <img src="https://img.shields.io/badge/Microsoft%20Azure-AZ--900-6d28d9?style=for-the-badge&logo=microsoftazure&logoColor=0078D4&labelColor=1e1033"/>
+<img src="https://img.shields.io/badge/IBM-Introduction%20to%20SQL-6d28d9?style=for-the-badge&logo=ibm&logoColor=white&labelColor=1e1033"/>
 
-</details>
-
-<details>
-<summary><b>🤖 AI / Data</b></summary>
 <br>
 
-<img src="https://img.shields.io/badge/IBM-Introduction%20to%20SQL-6d28d9?style=for-the-badge&logo=ibm&logoColor=white&labelColor=1e1033"/>
 <img src="https://img.shields.io/badge/Intel%20Unnati-Artificial%20Intelligence-6d28d9?style=for-the-badge&logo=intel&logoColor=0071C5&labelColor=1e1033"/>
 <img src="https://img.shields.io/badge/Alteryx-ML%20Fundamentals-6d28d9?style=for-the-badge&logo=alteryx&logoColor=0078C0&labelColor=1e1033"/>
 <img src="https://img.shields.io/badge/Oracle-OCI%20Generative%20AI%20Professional-6d28d9?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1e1033"/>
 
-</details>
+</div>
 
 <br>
 
 ## GitHub Analytics
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gunjankumar55&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0f0524&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd" alt="Gunjan's GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunjankumar55&layout=compact&langs_count=5&size_weight=0.3&count_weight=0.7&theme=radical&hide_border=true&bg_color=0f0524&title_color=a78bfa&text_color=c4b5fd" alt="Most Used Languages"/>
-
-<br>
 
 <img width="82%" src="https://streak-stats.demolab.com?user=Gunjankumar55&theme=radical&hide_border=true&background=0f0524&ring=8b5cf6&fire=a78bfa&currStreakLabel=c4b5fd&currStreakNum=a78bfa&sideNums=ff4ecd&dates=c4b5fd" alt="GitHub Streak Stats"/>
 
