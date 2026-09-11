@@ -27,7 +27,7 @@
 
 <br>
 
-##  About Me
+## About Me
 
 Hey! I'm **Gunjankumar**, a **Computer Engineering graduate** passionate about **Java, Software Development, AI/ML, and Problem Solving**. My primary programming language is **Java**, and I enjoy solving DSA problems, building practical projects, and continuously learning new technologies.
 
@@ -64,23 +64,29 @@ Hey! I'm **Gunjankumar**, a **Computer Engineering graduate** passionate about *
 
 <br>
 
-##  Featured Projects
+## Featured Projects
 
 **🌾 AgrowAssist — Agricultural Assistance System**
 <br>
 `Python` `Pandas` `Flask` `Power BI` `Flutter` `TensorFlow Lite`
+<br>
+Crop-health assistant that uses a TensorFlow Lite model for on-device disease detection, with a Flask backend and Power BI dashboards for yield/trend analysis, packaged into a Flutter mobile app for farmers.
 
 **🔐 LSB Steganalysis System**
 <br>
 `Python` `Scikit-learn` `Deep Learning`
+<br>
+Detects LSB (least-significant-bit) image steganography by extracting statistical/noise features and classifying images as clean or tampered with a trained scikit-learn/deep-learning pipeline.
 
 **🧠 SenseResolver — Modern Word Sense Disambiguation**
 <br>
 `Python` `Flask` `NLTK` `Lesk Algorithm`
+<br>
+NLP tool that resolves ambiguous word meanings in context using an enhanced Lesk algorithm over NLTK's WordNet, served through a lightweight Flask API.
 
 <br>
 
-##  Experience
+## Experience
 
 **Data Analyst Trainee** — KasNet Technologies Pvt Ltd.
 <br>
@@ -88,46 +94,52 @@ Hey! I'm **Gunjankumar**, a **Computer Engineering graduate** passionate about *
 
 <br>
 
-##  Achievements
+## Achievements
 
 <div align="center">
 
-| Recognition | Details |
-|:---|:---|
-| 🏅 Design Patent | *AI-Based Students Behaviour Monitoring Device* |
-| 📄 Research Publications | 3+ papers — IRJCS 2024, ICETS 2025, ICCCDS 2026 |
-| 🎨 Design Head, CSI-RAIT | Led design for 4+ conclaves & RAIT Techfest |
-| 🎯 Co-Chief Design Officer, Social Wing RAIT | Creative lead for UDAAN 2024 |
-| 🎥 Content Creator | 10+ tutorials · 1.8K+ views |
+| Year | Recognition | Details |
+|:---|:---|:---|
+| 2024 | 🏅 Design Patent | *AI-Based Students Behaviour Monitoring Device* |
+| 2024–2026 | 📄 Research Publications | 3+ papers — IRJCS 2024, ICETS 2025, ICCCDS 2026 |
+| — | 🎨 Design Head, CSI-RAIT | Led design for 4+ conclaves & RAIT Techfest |
+| 2024 | 🎯 Co-Chief Design Officer, Social Wing RAIT | Creative lead for UDAAN 2024 |
+| — | 🎥 Content Creator | 10+ tutorials · 1.8K+ views |
 
 </div>
 
 <br>
 
-##  Certifications
+## Certifications
 
-<div align="center">
+<details>
+<summary><b>☁️ Cloud</b></summary>
+<br>
 
 <img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Architecting-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900&labelColor=1e1033"/>
 <img src="https://img.shields.io/badge/Microsoft%20Azure-AZ--900-6d28d9?style=for-the-badge&logo=microsoftazure&logoColor=0078D4&labelColor=1e1033"/>
-<img src="https://img.shields.io/badge/IBM-Introduction%20to%20SQL-6d28d9?style=for-the-badge&logo=ibm&logoColor=white&labelColor=1e1033"/>
 
+</details>
+
+<details>
+<summary><b>🤖 AI / Data</b></summary>
 <br>
 
+<img src="https://img.shields.io/badge/IBM-Introduction%20to%20SQL-6d28d9?style=for-the-badge&logo=ibm&logoColor=white&labelColor=1e1033"/>
 <img src="https://img.shields.io/badge/Intel%20Unnati-Artificial%20Intelligence-6d28d9?style=for-the-badge&logo=intel&logoColor=0071C5&labelColor=1e1033"/>
 <img src="https://img.shields.io/badge/Alteryx-ML%20Fundamentals-6d28d9?style=for-the-badge&logo=alteryx&logoColor=0078C0&labelColor=1e1033"/>
 <img src="https://img.shields.io/badge/Oracle-OCI%20Generative%20AI%20Professional-6d28d9?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1e1033"/>
 
-</div>
+</details>
 
 <br>
 
-##  GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gunjankumar55&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0f0524&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd" alt="Gunjan's GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gunjankumar55&layout=compact&langs_count=5&size_weight=0.3&count_weight=0.7&theme=radical&hide_border=true&bg_color=0f0524&title_color=a78bfa&text_color=c4b5fd" alt="Most Used Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gunjankumar55&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0f0524&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd" alt="Gunjan's GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunjankumar55&layout=compact&langs_count=5&size_weight=0.3&count_weight=0.7&theme=radical&hide_border=true&bg_color=0f0524&title_color=a78bfa&text_color=c4b5fd" alt="Most Used Languages"/>
 
 <br>
 
@@ -137,7 +149,7 @@ Hey! I'm **Gunjankumar**, a **Computer Engineering graduate** passionate about *
 
 <br>
 
-##  Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -147,7 +159,7 @@ Hey! I'm **Gunjankumar**, a **Computer Engineering graduate** passionate about *
 
 <br>
 
-##  Commit Contribution Galaxy
+## Commit Contribution Galaxy
 
 <div align="center">
 
@@ -157,7 +169,7 @@ Hey! I'm **Gunjankumar**, a **Computer Engineering graduate** passionate about *
 
 <br>
 
-##  Connect With Me
+## Connect With Me
 
 <div align="center">
 
